@@ -1,0 +1,6 @@
+@SysApiAutorizacion_HostAddress = http://localhost:5145
+
+GET {{SysApiAutorizacion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
